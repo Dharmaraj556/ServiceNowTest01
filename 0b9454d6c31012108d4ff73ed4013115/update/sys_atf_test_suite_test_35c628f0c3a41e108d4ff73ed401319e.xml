@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-07 07:55:13</sys_created_on>
+        <sys_id>35c628f0c3a41e108d4ff73ed401319e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d2366cb0c3a41e108d4ff73ed4013153</sys_name>
+        <sys_package display_value="Test CI CD" source="0b9454d6c31012108d4ff73ed4013115">0b9454d6c31012108d4ff73ed4013115</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test CI CD">0b9454d6c31012108d4ff73ed4013115</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_35c628f0c3a41e108d4ff73ed401319e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-07 07:55:13</sys_updated_on>
+        <test display_value="CI CD Test">d2366cb0c3a41e108d4ff73ed4013153</test>
+        <test_suite display_value="My CI CD Test Suite">0d0624b0c3a41e108d4ff73ed4013193</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
