@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'My CI CD Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="CICD adhoc schedule">7ea96c34c3a41e108d4ff73ed40131d6</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin.01</sys_created_by>
+        <sys_created_on>2024-09-07 08:07:44</sys_created_on>
+        <sys_id>b2a9e0f4c3a41e108d4ff73ed401319b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Test CI CD" source="0b9454d6c31012108d4ff73ed4013115">0b9454d6c31012108d4ff73ed4013115</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test CI CD">0b9454d6c31012108d4ff73ed4013115</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_b2a9e0f4c3a41e108d4ff73ed401319b</sys_update_name>
+        <sys_updated_by>admin.01</sys_updated_by>
+        <sys_updated_on>2024-09-07 08:07:44</sys_updated_on>
+        <test_suite display_value="My CI CD Test Suite">0d0624b0c3a41e108d4ff73ed4013193</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test CI CD">0b9454d6c31012108d4ff73ed4013115</application>
+        <file_path/>
+        <instance_id>d7f0bb171b3dce9832182f8dee4bcb13</instance_id>
+        <instance_name>dev262879</instance_name>
+        <name>sys_atf_schedule_run_b2a9e0f4c3a41e108d4ff73ed401319b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>any</browser_name><browser_version/><description>Run suite 'My CI CD Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description><order>100</order><os_name>any</os_name><os_version/><schedule display_value="CICD adhoc schedule">7ea96c34c3a41e108d4ff73ed40131d6</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>admin.01</sys_created_by><sys_created_on>2024-09-07 08:07:44</sys_created_on><sys_id>b2a9e0f4c3a41e108d4ff73ed401319b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Test CI CD" source="0b9454d6c31012108d4ff73ed4013115">0b9454d6c31012108d4ff73ed4013115</sys_package><sys_policy/><sys_scope display_value="Test CI CD">0b9454d6c31012108d4ff73ed4013115</sys_scope><sys_update_name>sys_atf_schedule_run_b2a9e0f4c3a41e108d4ff73ed401319b</sys_update_name><sys_updated_by>admin.01</sys_updated_by><sys_updated_on>2024-09-07 08:07:44</sys_updated_on><test_suite display_value="My CI CD Test Suite">0d0624b0c3a41e108d4ff73ed4013193</test_suite><watch_list/></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>-1624952696</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>60eb06eac35c52108d4ff73ed4013187</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin.01</sys_created_by>
+        <sys_created_on>2024-09-07 08:07:44</sys_created_on>
+        <sys_id>36a9e0f4c3a41e108d4ff73ed40131a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191cb8656450000001</sys_recorded_at>
+        <sys_updated_by>admin.01</sys_updated_by>
+        <sys_updated_on>2024-09-07 08:07:44</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>3aa9e0f480a41e105bf5495b8cdcada1</update_guid>
+        <update_guid_history>3aa9e0f480a41e105bf5495b8cdcada1:-1624952696</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin.01</sys_created_by>
+        <sys_created_on>2024-09-07 08:07:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>840db50ac19c49ec951dcddf73963f10</sys_id>
+        <sys_metadata>b2a9e0f4c3a41e108d4ff73ed401319b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Test CI CD" source="0b9454d6c31012108d4ff73ed4013115">0b9454d6c31012108d4ff73ed4013115</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test CI CD">0b9454d6c31012108d4ff73ed4013115</sys_scope>
+        <sys_scope_delete display_value="">3983242c346c4da8b59118f52a6fe539</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_b2a9e0f4c3a41e108d4ff73ed401319b</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_b2a9e0f4c3a41e108d4ff73ed401319b">36a9e0f4c3a41e108d4ff73ed40131a2</sys_update_version>
+        <sys_updated_by>admin.01</sys_updated_by>
+        <sys_updated_on>2024-09-07 08:07:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
