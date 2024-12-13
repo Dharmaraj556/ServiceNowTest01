@@ -31,9 +31,9 @@
 
     // Add your code here
 
-    //Check Category and Subcategory combo exist01
+    //Check Category and Subcategory combo exist02
 
-	gs.addInfoMessage("Test CI CD - 01");
+	gs.addInfoMessage("Test CI CD - 06");
     
 
 })(current, previous);]]></script>
@@ -43,7 +43,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fb0c062ec35c52108d4ff73ed401315d</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name>Create Problem For Same Incident</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test CI CD" source="0b9454d6c31012108d4ff73ed4013115">0b9454d6c31012108d4ff73ed4013115</sys_package>
@@ -51,7 +51,7 @@
         <sys_scope display_value="Test CI CD">0b9454d6c31012108d4ff73ed4013115</sys_scope>
         <sys_update_name>sys_script_fb0c062ec35c52108d4ff73ed401315d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-29 15:51:09</sys_updated_on>
+        <sys_updated_on>2024-12-13 12:18:04</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
